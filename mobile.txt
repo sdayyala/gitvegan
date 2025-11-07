@@ -1,4 +1,4 @@
 Mobiles
-Mobile Number ------------- Note:only 10 digits are allowed
+Mobile Number ------------- 
 first name
 last name
